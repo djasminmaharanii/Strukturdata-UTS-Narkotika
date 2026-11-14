@@ -1,0 +1,449 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+putusan_001,nomorPerkara,24/Pid.Sus/2026/PN Plk,putusan_001.pdf,1,Anggota1,Anggota2,verified
+putusan_001,pengadilan,Pengadilan Negeri Palangkaraya,putusan_001.pdf,1,Anggota1,Anggota2,verified
+putusan_001,tanggalPutusan,2026-07-28,putusan_001.pdf,71,Anggota1,Anggota2,verified
+putusan_001,jenisNarkotika,Methamphetamin (Shabu),putusan_001.pdf,9,Anggota1,Anggota2,verified
+putusan_001,beratBarangBuktiGram,488.31,putusan_001.pdf,2,Anggota1,Anggota2,verified
+putusan_001,pasalTerbukti,"Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 jo. Pasal VII angka 50 UU No. 1 Tahun 2026",putusan_001.pdf,69,Anggota1,Anggota2,verified
+putusan_001,tuntutanBulan,-1,putusan_001.pdf,2,Anggota1,Anggota2,verified
+putusan_001,vonisBulan,0,putusan_001.pdf,69,Anggota1,Anggota2,verified
+putusan_001,dendaRupiah,0,putusan_001.pdf,67,Anggota1,Anggota2,verified
+putusan_002,nomorPerkara,68/Pid.Sus/2026/PN Plk,putusan_002.pdf,1,Anggota1,Anggota2,verified
+putusan_002,pengadilan,Pengadilan Negeri Palangkaraya,putusan_002.pdf,1,Anggota1,Anggota2,verified
+putusan_002,tanggalPutusan,2026-07-07,putusan_002.pdf,30,Anggota1,Anggota2,verified
+putusan_002,jenisNarkotika,Metamfetamina (Shabu),putusan_002.pdf,5,Anggota1,Anggota2,verified
+putusan_002,beratBarangBuktiGram,5.93,putusan_002.pdf,29,Anggota1,Anggota2,verified
+putusan_002,pasalTerbukti,"Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 tentang KUHP jo. UU No. 1 Tahun 2026",putusan_002.pdf,29,Anggota1,Anggota2,verified
+putusan_002,tuntutanBulan,36,putusan_002.pdf,2,Anggota1,Anggota2,verified
+putusan_002,vonisBulan,24,putusan_002.pdf,29,Anggota1,Anggota2,verified
+putusan_002,dendaRupiah,600000000,putusan_002.pdf,29,Anggota1,Anggota2,verified
+putusan_003,nomorPerkara,72/Pid.Sus/2026/PN Plk,putusan_003.pdf,1,Anggota1,Anggota2,verified
+putusan_003,pengadilan,Pengadilan Negeri Palangkaraya,putusan_003.pdf,1,Anggota1,Anggota2,verified
+putusan_003,tanggalPutusan,2026-06-25,putusan_003.pdf,39,Anggota1,Anggota2,verified
+putusan_003,jenisNarkotika,Metamfetamina (Shabu),putusan_003.pdf,6,Anggota1,Anggota2,verified
+putusan_003,beratBarangBuktiGram,53.58,putusan_003.pdf,3,Anggota1,Anggota2,verified
+putusan_003,pasalTerbukti,"Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2026",putusan_003.pdf,37,Anggota1,Anggota2,verified
+putusan_003,tuntutanBulan,144,putusan_003.pdf,2,Anggota1,Anggota2,verified
+putusan_003,vonisBulan,108,putusan_003.pdf,37,Anggota1,Anggota2,verified
+putusan_003,dendaRupiah,1000000000,putusan_003.pdf,37,Anggota1,Anggota2,verified
+putusan_004,nomorPerkara,73/Pid.Sus/2026/PN Plk,putusan_004.pdf,1,Anggota1,Anggota2,verified
+putusan_004,pengadilan,Pengadilan Negeri Palangkaraya,putusan_004.pdf,1,Anggota1,Anggota2,verified
+putusan_004,tanggalPutusan,2026-06-25,putusan_004.pdf,37,Anggota1,Anggota2,verified
+putusan_004,jenisNarkotika,Metamfetamina,putusan_004.pdf,7,Anggota1,Anggota2,verified
+putusan_004,beratBarangBuktiGram,49.30,putusan_004.pdf,3,Anggota1,Anggota2,verified
+putusan_004,pasalDakwaan,"Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009; Pasal 609 ayat (2) huruf a UU 1/2023",putusan_004.pdf,7,Anggota1,Anggota2,verified
+putusan_004,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. UU 1/2026,putusan_004.pdf,35,Anggota1,Anggota2,verified
+putusan_004,tuntutanBulan,120,putusan_004.pdf,2,Anggota1,Anggota2,verified
+putusan_004,vonisBulan,84,putusan_004.pdf,36,Anggota1,Anggota2,verified
+putusan_004,dendaRupiah,1000000000,putusan_004.pdf,36,Anggota1,Anggota2,verified
+putusan_005,nomorPerkara,75/Pid.Sus/2026/PN Plk,putusan_005.pdf,1,Anggota1,Anggota2,verified
+putusan_005,pengadilan,Pengadilan Negeri Palangkaraya,putusan_005.pdf,1,Anggota1,Anggota2,verified
+putusan_005,tanggalPutusan,2026-07-07,putusan_005.pdf,32,Anggota1,Anggota2,verified
+putusan_005,jenisNarkotika,Metamfetamina,putusan_005.pdf,7,Anggota1,Anggota2,verified
+putusan_005,beratBarangBuktiGram,10.33,putusan_005.pdf,21,Anggota1,Anggota2,verified
+putusan_005,pasalDakwaan,"Pasal 114 ayat (2) UU 35/2009 jo. Pasal 132 ayat (1); Pasal 609 ayat (2) huruf a UU 1/2023",putusan_005.pdf,7,Anggota1,Anggota2,verified
+putusan_005,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo. UU 1/2023 jo. UU 1/2026 jo. Pasal 132 ayat (1),putusan_005.pdf,30,Anggota1,Anggota2,verified
+putusan_005,tuntutanBulan,84,putusan_005.pdf,3,Anggota1,Anggota2,verified
+putusan_005,vonisBulan,72,putusan_005.pdf,31,Anggota1,Anggota2,verified
+putusan_005,dendaRupiah,1000000000,putusan_005.pdf,31,Anggota1,Anggota2,verified
+putusan_006,nomorPerkara,85/Pid.Sus/2026/PN Plk,putusan_006.pdf,1,Anggota1,Anggota2,verified
+putusan_006,pengadilan,Pengadilan Negeri Palangkaraya,putusan_006.pdf,1,Anggota1,Anggota2,verified
+putusan_006,tanggalPutusan,2026-07-30,putusan_006.pdf,26,Anggota1,Anggota2,verified
+putusan_006,jenisNarkotika,Metamfetamina,putusan_006.pdf,5,Anggota1,Anggota2,verified
+putusan_006,beratBarangBuktiGram,10.42,putusan_006.pdf,2,Anggota1,Anggota2,verified
+putusan_006,pasalDakwaan,"Pasal 114 ayat (2) UU 35/2009 jo. Lampiran II UU 1/2026; Pasal 609 ayat (2) huruf a UU 1/2023",putusan_006.pdf,6,Anggota1,Anggota2,verified
+putusan_006,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo. Lampiran II UU 1/2026,putusan_006.pdf,25,Anggota1,Anggota2,verified
+putusan_006,tuntutanBulan,72,putusan_006.pdf,2,Anggota1,Anggota2,verified
+putusan_006,vonisBulan,60,putusan_006.pdf,25,Anggota1,Anggota2,verified
+putusan_006,dendaRupiah,1000000000,putusan_006.pdf,25,Anggota1,Anggota2,verified
+putusan_007,nomorPerkara,86/Pid.Sus/2026/PN Plk,putusan_007.pdf,1,AI_Extractor,Pending,extracted
+putusan_007,pengadilan,Pengadilan Negeri Palangkaraya,putusan_007.pdf,1,AI_Extractor,Pending,extracted
+putusan_007,tanggalPutusan,2026-07-14,putusan_007.pdf,29,AI_Extractor,Pending,extracted
+putusan_007,terdakwaKode,T007,putusan_007.pdf,1,AI_Extractor,Pending,extracted
+putusan_007,jenisNarkotika,Sabu (Metamfetamina),putusan_007.pdf,5,AI_Extractor,Pending,extracted
+putusan_007,beratBarangBuktiGram,3.04,putusan_007.pdf,5,AI_Extractor,Pending,extracted
+putusan_007,pasalTerbukti,Pasal 114 Ayat (1) UU No. 35/2009 jo. Lampiran II UU No. 1/2026,putusan_007.pdf,24,AI_Extractor,Pending,extracted
+putusan_007,tuntutanBulan,60,putusan_007.pdf,2,AI_Extractor,Pending,extracted
+putusan_007,vonisBulan,42,putusan_007.pdf,28,AI_Extractor,Pending,extracted
+putusan_007,dendaRupiah,1000000000,putusan_007.pdf,28,AI_Extractor,Pending,extracted
+putusan_008,nomorPerkara,89/Pid.Sus/2026/PN Plk,putusan_008.pdf,1,AI_Extractor,Pending,extracted
+putusan_008,pengadilan,Pengadilan Negeri Palangkaraya,putusan_008.pdf,1,AI_Extractor,Pending,extracted
+putusan_008,tanggalPutusan,2026-07-30,putusan_008.pdf,22,AI_Extractor,Pending,extracted
+putusan_008,terdakwaKode,T008,putusan_008.pdf,1,AI_Extractor,Pending,extracted
+putusan_008,jenisNarkotika,Sabu (Metamfetamina),putusan_008.pdf,5,AI_Extractor,Pending,extracted
+putusan_008,beratBarangBuktiGram,2.42,putusan_008.pdf,11,AI_Extractor,Pending,extracted
+putusan_008,pasalTerbukti,Pasal 609 ayat (1) huruf a UU No. 1/2023 jo. UU No. 1/2026,putusan_008.pdf,20,AI_Extractor,Pending,extracted
+putusan_008,tuntutanBulan,24,putusan_008.pdf,2,AI_Extractor,Pending,extracted
+putusan_008,vonisBulan,16,putusan_008.pdf,21,AI_Extractor,Pending,extracted
+putusan_008,dendaRupiah,600000000,putusan_008.pdf,21,AI_Extractor,Pending,extracted
+putusan_009,nomorPerkara,96/Pid.Sus/2026/PN Plk,putusan_009.pdf,1,AI_Extractor,Pending,extracted
+putusan_009,pengadilan,Pengadilan Negeri Palangkaraya,putusan_009.pdf,1,AI_Extractor,Pending,extracted
+putusan_009,tanggalPutusan,2026-08-11,putusan_009.pdf,41,AI_Extractor,Pending,extracted
+putusan_009,terdakwaKode,T009-1; T009-2,putusan_009.pdf,1,AI_Extractor,Pending,extracted
+putusan_009,jenisNarkotika,Sabu (Metamfetamina); Ekstasi (MDMA),putusan_009.pdf,7,AI_Extractor,Pending,extracted
+putusan_009,beratBarangBuktiGram,3121.88,putusan_009.pdf,7,AI_Extractor,Pending,extracted
+putusan_009,pasalTerbukti,Pasal 114 ayat (2) Jo. Pasal 132 ayat (1) UU No. 35/2009 Jo. UU No. 1/2026,putusan_009.pdf,40,AI_Extractor,Pending,extracted
+putusan_009,tuntutanBulan,216 (Terdakwa I); 240 (Terdakwa II),putusan_009.pdf,3,AI_Extractor,Pending,extracted
+putusan_009,vonisBulan,156 (Terdakwa I); 204 (Terdakwa II),putusan_009.pdf,40,AI_Extractor,Pending,extracted
+putusan_010,nomorPerkara,98/Pid.Sus/2026/PN Plk,putusan_010.pdf,1,AI_Extractor,Pending,extracted
+putusan_010,pengadilan,Pengadilan Negeri Palangkaraya,putusan_010.pdf,1,AI_Extractor,Pending,extracted
+putusan_010,tanggalPutusan,2026-07-02,putusan_010.pdf,36,AI_Extractor,Pending,extracted
+putusan_010,terdakwaKode,T010,putusan_010.pdf,1,AI_Extractor,Pending,extracted
+putusan_010,jenisNarkotika,Sabu (Metamfetamina),putusan_010.pdf,5,AI_Extractor,Pending,extracted
+putusan_010,beratBarangBuktiGram,12.16,putusan_010.pdf,34,AI_Extractor,Pending,extracted
+putusan_010,pasalTerbukti,"Pasal 114 Ayat (2) UU No. 35/2009 jo. UU No. 1/2026",putusan_010.pdf,34,AI_Extractor,Pending,extracted
+putusan_010,tuntutanBulan,108,putusan_010.pdf,2,AI_Extractor,Pending,extracted
+putusan_010,vonisBulan,96,putusan_010.pdf,34,AI_Extractor,Pending,extracted
+putusan_010,dendaRupiah,1000000000,putusan_010.pdf,34,AI_Extractor,Pending,extracted
+putusan_011,nomorPerkara,106/Pid.Sus/2026/PN Plk,putusan_011_2.pdf,1,Extractor,Reviewer,verified
+putusan_011,pengadilan,Pengadilan Negeri Palangkaraya,putusan_011_2.pdf,1,Extractor,Reviewer,verified
+putusan_011,tanggalPutusan,2026-07-28,putusan_011_2.pdf,47,Extractor,Reviewer,verified
+putusan_011,jenisNarkotika,Sabu (Metamfetamina) dan Ekstasi (MDMA),putusan_011_2.pdf,9,Extractor,Reviewer,verified
+putusan_011,beratBarangBuktiGram,10.97,putusan_011_2.pdf,7-8,Extractor,Reviewer,verified
+putusan_011,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2026,putusan_011_2.pdf,42,Extractor,Reviewer,verified
+putusan_011,tuntutanBulan,84,putusan_011_2.pdf,2,Extractor,Reviewer,verified
+putusan_011,vonisBulan,60,putusan_011_2.pdf,45,Extractor,Reviewer,verified
+putusan_011,dendaRupiah,1000000000,putusan_011_2.pdf,45,Extractor,Reviewer,verified
+putusan_012,nomorPerkara,107/Pid.Sus/2026/PN Plk,putusan_012_2.pdf,1,Extractor,Reviewer,verified
+putusan_012,pengadilan,Pengadilan Negeri Palangkaraya,putusan_012_2.pdf,1,Extractor,Reviewer,verified
+putusan_012,tanggalPutusan,2026-09-15,putusan_012_2.pdf,35,Extractor,Reviewer,verified
+putusan_012,jenisNarkotika,Sabu (Metamfetamina),putusan_012_2.pdf,5,Extractor,Reviewer,verified
+putusan_012,beratBarangBuktiGram,4.73,putusan_012_2.pdf,5,Extractor,Reviewer,verified
+putusan_012,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 sebagaimana diubah UU RI No. 1 Tahun 2026,putusan_012_2.pdf,30,Extractor,Reviewer,verified
+putusan_012,tuntutanBulan,72,putusan_012_2.pdf,2,Extractor,Reviewer,verified
+putusan_012,vonisBulan,60,putusan_012_2.pdf,34,Extractor,Reviewer,verified
+putusan_012,dendaRupiah,1000000000,putusan_012_2.pdf,34,Extractor,Reviewer,verified
+putusan_013,nomorPerkara,108/Pid.Sus/2026/PN Plk,putusan_013.pdf,1,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_013,tanggalPutusan,2026-07-28,putusan_013.pdf,30,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_013,beratBarangBuktiGram,3.02,putusan_013.pdf,6,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_013,tuntutanBulan,60,putusan_013.pdf,2,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_013,vonisBulan,48,putusan_013.pdf,29,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_013,dendaRupiah,1000000000,putusan_013.pdf,29,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,nomorPerkara,111/Pid.Sus/2026/PN Plk,putusan_014.pdf,1,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,tanggalPutusan,2026-08-11,putusan_014.pdf,46,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,beratBarangBuktiGram,5.17,putusan_014.pdf,8,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,tuntutanBulan,72,putusan_014.pdf,2,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,vonisBulan,72,putusan_014.pdf,45,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_014,dendaRupiah,1000000000,putusan_014.pdf,45,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,nomorPerkara,112/Pid.Sus/2026/PN Plk,putusan_015.pdf,1,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,tanggalPutusan,2026-07-28,putusan_015.pdf,36,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,beratBarangBuktiGram,25.08,putusan_015.pdf,7,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,tuntutanBulan,"84 (TDW-01); 84 (TDW-02); 108 (TDW-03)",putusan_015.pdf,4,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,vonisBulan,"60 (TDW-01); 60 (TDW-02); 84 (TDW-03)",putusan_015.pdf,35,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_015,dendaRupiah,1000000000,putusan_015.pdf,35,Tim_Ekstraksi,Tim_Reviewer,verified
+putusan_016,nomorPerkara,113/Pid.Sus/2026/PN Plk,putusan_016.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_016,pengadilan,Pengadilan Negeri Palangkaraya,putusan_016.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_016,tanggalPutusan,2026-08-11,putusan_016.pdf,31,NamaExtractor,NamaReviewer,verified
+putusan_016,jenisNarkotika,Metamfetamina (Shabu),putusan_016.pdf,6,NamaExtractor,NamaReviewer,verified
+putusan_016,beratBarangBuktiGram,49.30,putusan_016.pdf,17,NamaExtractor,NamaReviewer,verified
+putusan_016,pasalTerbukti,Pasal 114 ayat (2) Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_016.pdf,30,NamaExtractor,NamaReviewer,verified
+putusan_016,tuntutanBulan,120,putusan_016.pdf,3,NamaExtractor,NamaReviewer,verified
+putusan_016,vonisBulan,84,putusan_016.pdf,30,NamaExtractor,NamaReviewer,verified
+putusan_016,dendaRupiah,1000000000,putusan_016.pdf,30,NamaExtractor,NamaReviewer,verified
+putusan_017,nomorPerkara,114/Pid.Sus/2026/PN Plk,putusan_017.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_017,pengadilan,Pengadilan Negeri Palangkaraya,putusan_017.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_017,tanggalPutusan,2026-09-01,putusan_017.pdf,19,NamaExtractor,NamaReviewer,verified
+putusan_017,jenisNarkotika,Metamfetamina (Sabu),putusan_017.pdf,4,NamaExtractor,NamaReviewer,verified
+putusan_017,beratBarangBuktiGram,1.36,putusan_017.pdf,8,NamaExtractor,NamaReviewer,verified
+putusan_017,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_017.pdf,18,NamaExtractor,NamaReviewer,verified
+putusan_017,tuntutanBulan,84,putusan_017.pdf,2,NamaExtractor,NamaReviewer,verified
+putusan_017,vonisBulan,56,putusan_017.pdf,18,NamaExtractor,NamaReviewer,verified
+putusan_017,dendaRupiah,1000000000,putusan_017.pdf,18,NamaExtractor,NamaReviewer,verified
+putusan_018,nomorPerkara,115/Pid.Sus/2026/PN Plk,putusan_018.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_018,pengadilan,Pengadilan Negeri Palangkaraya,putusan_018.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_018,tanggalPutusan,2026-07-28,putusan_018.pdf,22,NamaExtractor,NamaReviewer,verified
+putusan_018,jenisNarkotika,Metamfetamina (Shabu),putusan_018.pdf,5,NamaExtractor,NamaReviewer,verified
+putusan_018,beratBarangBuktiGram,18.86,putusan_018.pdf,11,NamaExtractor,NamaReviewer,verified
+putusan_018,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_018.pdf,21,NamaExtractor,NamaReviewer,verified
+putusan_018,tuntutanBulan,108,putusan_018.pdf,3,NamaExtractor,NamaReviewer,verified
+putusan_018,vonisBulan,84,putusan_018.pdf,22,NamaExtractor,NamaReviewer,verified
+putusan_018,dendaRupiah,1000000000,putusan_018.pdf,22,NamaExtractor,NamaReviewer,verified
+putusan_019,nomorPerkara,117/Pid.Sus/2026/PN Plk,putusan_019.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_019,pengadilan,Pengadilan Negeri Palangka Raya,putusan_019.pdf,1,NamaExtractor,NamaReviewer,verified
+putusan_019,tanggalPutusan,2026-09-01,putusan_019.pdf,34,NamaExtractor,NamaReviewer,verified
+putusan_019,jenisNarkotika,Metamfetamina (Sabu),putusan_019.pdf,10,NamaExtractor,NamaReviewer,verified
+putusan_019,beratBarangBuktiGram,1.47,putusan_019.pdf,10,NamaExtractor,NamaReviewer,verified
+putusan_019,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026 Jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_019.pdf,32,NamaExtractor,NamaReviewer,verified
+putusan_019,tuntutanBulan,36,putusan_019.pdf,6,NamaExtractor,NamaReviewer,verified
+putusan_019,vonisBulan,24,putusan_019.pdf,33,NamaExtractor,NamaReviewer,verified
+putusan_019,dendaRupiah,1000000000,putusan_019.pdf,33,NamaExtractor,NamaReviewer,verified
+putusan_020,nomorPerkara,118/Pid.Sus/2026/PN Plk,putusan_020.pdf,1,ExtractorName,ReviewerName,verified
+putusan_020,pengadilan,Pengadilan Negeri Palangka Raya,putusan_020.pdf,1,ExtractorName,ReviewerName,verified
+putusan_020,tanggalPutusan,2026-04-06,putusan_020.pdf,19,ExtractorName,ReviewerName,verified
+putusan_020,pasalDakwaan,"Pasal 114 ayat (1) UU No. 35 Tahun 2009; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026",putusan_020.pdf,3-4,ExtractorName,ReviewerName,verified
+putusan_020,tuntutanPidana,"Pidana penjara 6 tahun 6 bulan dan denda Rp1.000.000.000 subsider 6 bulan penjara",putusan_020.pdf,2,ExtractorName,ReviewerName,verified
+putusan_020,amarPidana,"Pidana penjara 5 tahun 6 bulan dan denda Rp1.000.000.000 subsider 190 hari penjara",putusan_020.pdf,18-19,ExtractorName,ReviewerName,verified
+putusan_020,barangBukti,"5 paket sabu berat bersih 1,45 gram, 1 unit HP Oppo A12, 1 unit motor Yamaha Jupiter MX",putusan_020.pdf,2,ExtractorName,ReviewerName,verified
+putusan_021,nomorPerkara,123/Pid.Sus/2026/PN Plk,putusan_021.pdf,1,Extractor,Reviewer,verified
+putusan_021,pengadilan,Pengadilan Negeri Palangkaraya,putusan_021.pdf,1,Extractor,Reviewer,verified
+putusan_021,tanggalPutusan,2026-09-15,putusan_021.pdf,40,Extractor,Reviewer,verified
+putusan_021,jenisNarkotika,Sabu (Metamfetamina),putusan_021.pdf,9,Extractor,Reviewer,verified
+putusan_021,beratBarangBuktiGram,74.90,putusan_021.pdf,7,Extractor,Reviewer,verified
+putusan_021,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 sebagaimana diubah UU RI No. 1 Tahun 2026,putusan_021.pdf,39,Extractor,Reviewer,verified
+putusan_021,tuntutanBulan,120,putusan_021.pdf,2,Extractor,Reviewer,verified
+putusan_021,vonisBulan,108,putusan_021.pdf,40,Extractor,Reviewer,verified
+putusan_021,dendaRupiah,1000000000,putusan_021.pdf,40,Extractor,Reviewer,verified
+putusan_022,nomorPerkara,130/Pid.Sus/2026/PN Plk,putusan_022.pdf,1,Extractor,Reviewer,verified
+putusan_022,pengadilan,Pengadilan Negeri Palangkaraya,putusan_022.pdf,1,Extractor,Reviewer,verified
+putusan_022,tanggalPutusan,2026-09-22,putusan_022.pdf,35,Extractor,Reviewer,verified
+putusan_022,jenisNarkotika,Sabu (Metamfetamina),putusan_022.pdf,6,Extractor,Reviewer,verified
+putusan_022,beratBarangBuktiGram,4.12,putusan_022.pdf,6,Extractor,Reviewer,verified
+putusan_022,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2023 jo. UU RI No. 1 Tahun 2026,putusan_022.pdf,33-34,Extractor,Reviewer,verified
+putusan_022,tuntutanBulan,78,putusan_022.pdf,3,Extractor,Reviewer,verified
+putusan_022,vonisBulan,72,putusan_022.pdf,34,Extractor,Reviewer,verified
+putusan_022,dendaRupiah,1000000000,putusan_022.pdf,34,Extractor,Reviewer,verified
+putusan_023,nomorPerkara,138/Pid.Sus/2026/PN Plk,putusan_023.pdf,1,Extractor,Reviewer,verified
+putusan_023,pengadilan,Pengadilan Negeri Palangkaraya,putusan_023.pdf,1,Extractor,Reviewer,verified
+putusan_023,tanggalPutusan,2026-09-15,putusan_023.pdf,25,Extractor,Reviewer,verified
+putusan_023,terdakwaKode,TDW-023,putusan_023.pdf,1,Extractor,Reviewer,verified
+putusan_023,jenisNarkotika,Sabu (Metamfetamina),putusan_023.pdf,6,Extractor,Reviewer,verified
+putusan_023,beratBarangBuktiGram,39.67,putusan_023.pdf,3,Extractor,Reviewer,verified
+putusan_023,pasalDakwaan,Alternatif Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026; Atau Kedua: Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_023.pdf,6-8,Extractor,Reviewer,verified
+putusan_023,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_023.pdf,21,Extractor,Reviewer,verified
+putusan_023,tuntutanBulan,84,putusan_023.pdf,2,Extractor,Reviewer,verified
+putusan_023,vonisBulan,72,putusan_023.pdf,24,Extractor,Reviewer,verified
+putusan_023,dendaRupiah,1000000000,putusan_023.pdf,24,Extractor,Reviewer,verified
+putusan_024,nomorPerkara,150/Pid.Sus/2026/PN Plk,putusan_024.pdf,1,Extractor,Reviewer,verified
+putusan_024,pengadilan,Pengadilan Negeri Palangkaraya,putusan_024.pdf,1,Extractor,Reviewer,verified
+putusan_024,tanggalPutusan,2026-09-15,putusan_024.pdf,21,Extractor,Reviewer,verified
+putusan_024,terdakwaKode,TDW-024,putusan_024.pdf,1,Extractor,Reviewer,verified
+putusan_024,jenisNarkotika,Sabu (Metamfetamina),putusan_024.pdf,6,Extractor,Reviewer,verified
+putusan_024,beratBarangBuktiGram,5.28,putusan_024.pdf,3,Extractor,Reviewer,verified
+putusan_024,pasalDakwaan,Alternatif Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026; Atau Kedua: Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_024.pdf,6-8,Extractor,Reviewer,verified
+putusan_024,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_024.pdf,17,Extractor,Reviewer,verified
+putusan_024,tuntutanBulan,48,putusan_024.pdf,2,Extractor,Reviewer,verified
+putusan_024,vonisBulan,32,putusan_024.pdf,20,Extractor,Reviewer,verified
+putusan_024,dendaRupiah,1000000000,putusan_024.pdf,20,Extractor,Reviewer,verified
+putusan_025,nomorPerkara,145/Pid.Sus/2026/PN Plk,putusan_025.pdf,1,Extractor,Reviewer,verified
+putusan_025,pengadilan,Pengadilan Negeri Palangkaraya,putusan_025.pdf,1,Extractor,Reviewer,verified
+putusan_025,tanggalPutusan,2026-09-22,putusan_025.pdf,28,Extractor,Reviewer,verified
+putusan_025,terdakwaKode,TDW-025-I; TDW-025-II,putusan_025.pdf,1,Extractor,Reviewer,verified
+putusan_025,jenisNarkotika,Sabu (Metamfetamina),putusan_025.pdf,6,Extractor,Reviewer,verified
+putusan_025,beratBarangBuktiGram,2.11,putusan_025.pdf,2,Extractor,Reviewer,verified
+putusan_025,pasalDakwaan,Alternatif Kesatu: Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026; Atau Kedua: Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_025.pdf,6-9,Extractor,Reviewer,verified
+putusan_025,pasalTerbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 tentang KUHP jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009 tentang Narkotika jo. UU No. 1 Tahun 2026 tentang Penyesuaian Pidana,putusan_025.pdf,24,Extractor,Reviewer,verified
+putusan_026,nomorPerkara,3/Pid.Sus/2026/PN Plk,putusan_026.pdf,1,Extractor1,Reviewer1,verified
+putusan_026,pengadilan,Pengadilan Negeri Palangka Raya,putusan_026.pdf,1,Extractor1,Reviewer1,verified
+putusan_026,tanggalPutusan,2026-03-04,putusan_026.pdf,23,Extractor1,Reviewer1,verified
+putusan_026,pasalDakwaan,"Pasal 114 ayat (1) UU No. 35 Tahun 2009; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026",putusan_026.pdf,3-5,Extractor1,Reviewer1,verified
+putusan_026,tuntutanPidana,"Pidana penjara 6 tahun dan denda Rp1.000.000.000 subsider 190 hari penjara",putusan_026.pdf,2,Extractor1,Reviewer1,verified
+putusan_026,amarPidana,"Pidana penjara 5 tahun dan denda Rp1.000.000.000 subsider 190 hari penjara",putusan_026.pdf,22-23,Extractor1,Reviewer1,verified
+putusan_026,barangBukti,"2 paket sabu berat bersih 0,34 gram, 1 unit HP Vivo Y17s, 1 unit motor Honda Scoopy",putusan_026.pdf,2-3,Extractor1,Reviewer1,verified
+putusan_027,nomorPerkara,13/Pid.Sus/2026/PN Plk,putusan_027.pdf,1,Extractor,Reviewer,verified
+putusan_027,pengadilan,Pengadilan Negeri Palangkaraya,putusan_027.pdf,1,Extractor,Reviewer,verified
+putusan_027,tanggalPutusan,2026-04-09,putusan_027.pdf,27,Extractor,Reviewer,verified
+putusan_027,jenisNarkotika,Sabu (Metamfetamina); Ekstasi (MDMA dan Ketamin),putusan_027.pdf,5,Extractor,Reviewer,verified
+putusan_027,beratBarangBuktiGram,1.82,putusan_027.pdf,5-6,Extractor,Reviewer,verified
+putusan_027,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_027.pdf,23,Extractor,Reviewer,verified
+putusan_027,tuntutanBulan,72,putusan_027.pdf,2,Extractor,Reviewer,verified
+putusan_027,vonisBulan,48,putusan_027.pdf,27,Extractor,Reviewer,verified
+putusan_027,dendaRupiah,500000000,putusan_027.pdf,27,Extractor,Reviewer,verified
+putusan_028,nomorPerkara,22/Pid.Sus/2026/PN Plk,putusan_028.pdf,1,Extractor,Reviewer,verified
+putusan_028,pengadilan,Pengadilan Negeri Palangkaraya,putusan_028.pdf,1,Extractor,Reviewer,verified
+putusan_028,tanggalPutusan,2026-04-21,putusan_028.pdf,24,Extractor,Reviewer,verified
+putusan_028,jenisNarkotika,Sabu (Metamfetamina),putusan_028.pdf,5,Extractor,Reviewer,verified
+putusan_028,beratBarangBuktiGram,1.66,putusan_028.pdf,5,Extractor,Reviewer,verified
+putusan_028,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_028.pdf,20,Extractor,Reviewer,verified
+putusan_028,tuntutanBulan,96,putusan_028.pdf,2,Extractor,Reviewer,verified
+putusan_028,vonisBulan,66,putusan_028.pdf,23,Extractor,Reviewer,verified
+putusan_028,dendaRupiah,1000000000,putusan_028.pdf,23,Extractor,Reviewer,verified
+putusan_029,nomorPerkara,14/Pid.Sus/2026/PN Plk,putusan_029.pdf,1,Extractor1,Reviewer1,verified
+putusan_029,pengadilan,Pengadilan Negeri Palangkaraya,putusan_029.pdf,1,Extractor1,Reviewer1,verified
+putusan_029,tanggalPutusan,2026-04-21,putusan_029.pdf,21,Extractor1,Reviewer1,verified
+putusan_029,jenisNarkotika,Sabu (Metamfetamina),putusan_029.pdf,5,Extractor1,Reviewer1,verified
+putusan_029,beratBarangBuktiGram,306.04,putusan_029.pdf,3,Extractor1,Reviewer1,verified
+putusan_029,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_029.pdf,20,Extractor1,Reviewer1,verified
+putusan_029,tuntutanBulan,180,putusan_029.pdf,2,Extractor1,Reviewer1,verified
+putusan_029,vonisBulan,120,putusan_029.pdf,20,Extractor1,Reviewer1,verified
+putusan_029,dendaRupiah,1000000000,putusan_029.pdf,20,Extractor1,Reviewer1,verified
+putusan_030,nomorPerkara,26/Pid.Sus/2026/PN Plk,putusan_030.pdf,1,Extractor1,Reviewer1,verified
+putusan_030,pengadilan,Pengadilan Negeri Palangkaraya,putusan_030.pdf,1,Extractor1,Reviewer1,verified
+putusan_030,tanggalPutusan,2026-06-03,putusan_030.pdf,31,Extractor1,Reviewer1,verified
+putusan_030,jenisNarkotika,Sabu (Metamfetamina),putusan_030.pdf,6,Extractor1,Reviewer1,verified
+putusan_030,beratBarangBuktiGram,39.15,putusan_030.pdf,3,Extractor1,Reviewer1,verified
+putusan_030,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2026,putusan_030.pdf,30,Extractor1,Reviewer1,verified
+putusan_030,tuntutanBulan,144,putusan_030.pdf,2,Extractor1,Reviewer1,verified
+putusan_030,vonisBulan,96,putusan_030.pdf,30,Extractor1,Reviewer1,verified
+putusan_030,dendaRupiah,1000000000,putusan_030.pdf,30,Extractor1,Reviewer1,verified
+putusan_031,nomorPerkara,35/Pid.Sus/2026/PN Plk,putusan_031.pdf,1,Extractor1,Reviewer1,verified
+putusan_031,pengadilan,Pengadilan Negeri Palangkaraya,putusan_031.pdf,1,Extractor1,Reviewer1,verified
+putusan_031,tanggalPutusan,2026-05-05,putusan_031.pdf,34,Extractor1,Reviewer1,verified
+putusan_031,jenisNarkotika,Sabu (Metamfetamina),putusan_031.pdf,7,Extractor1,Reviewer1,verified
+putusan_031,beratBarangBuktiGram,48.97,putusan_031.pdf,3,Extractor1,Reviewer1,verified
+putusan_031,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_031.pdf,32,Extractor1,Reviewer1,verified
+putusan_031,tuntutanBulan,156,putusan_031.pdf,2,Extractor1,Reviewer1,verified
+putusan_031,vonisBulan,108,putusan_031.pdf,33,Extractor1,Reviewer1,verified
+putusan_031,dendaRupiah,1000000000,putusan_031.pdf,33,Extractor1,Reviewer1,verified
+putusan_032,nomorPerkara,36/Pid.Sus/2026/PN Plk,putusan_032.pdf,1,Extractor1,Reviewer1,verified
+putusan_032,pengadilan,Pengadilan Negeri Palangkaraya,putusan_032.pdf,1,Extractor1,Reviewer1,verified
+putusan_032,tanggalPutusan,2026-06-03,putusan_032.pdf,23,Extractor1,Reviewer1,verified
+putusan_032,jenisNarkotika,Sabu (Metamfetamina),putusan_032.pdf,5,Extractor1,Reviewer1,verified
+putusan_032,beratBarangBuktiGram,2.67,putusan_032.pdf,11,Extractor1,Reviewer1,verified
+putusan_032,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_032.pdf,22,Extractor1,Reviewer1,verified
+putusan_032,tuntutanBulan,84,putusan_032.pdf,2,Extractor1,Reviewer1,verified
+putusan_032,vonisBulan,72,putusan_032.pdf,22,Extractor1,Reviewer1,verified
+putusan_032,dendaRupiah,1000000000,putusan_032.pdf,22,Extractor1,Reviewer1,verified
+putusan_033,nomorPerkara,37/Pid.Sus/2026/PN Plk,putusan_033.pdf,1,Extractor1,Reviewer1,verified
+putusan_033,pengadilan,Pengadilan Negeri Palangkaraya,putusan_033.pdf,1,Extractor1,Reviewer1,verified
+putusan_033,tanggalPutusan,2026-05-21,putusan_033.pdf,26,Extractor1,Reviewer1,verified
+putusan_033,jenisNarkotika,Sabu (Metamfetamina),putusan_033.pdf,5,Extractor1,Reviewer1,verified
+putusan_033,beratBarangBuktiGram,1.25,putusan_033.pdf,3,Extractor1,Reviewer1,verified
+putusan_033,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2026,putusan_033.pdf,25,Extractor1,Reviewer1,verified
+putusan_033,tuntutanBulan,96,putusan_033.pdf,2,Extractor1,Reviewer1,verified
+putusan_033,vonisBulan,72,putusan_033.pdf,25,Extractor1,Reviewer1,verified
+putusan_033,dendaRupiah,1000000000,putusan_033.pdf,25,Extractor1,Reviewer1,verified
+putusan_034,nomorPerkara,38/Pid.Sus/2026/PN Plk,putusan_034.pdf,1,Extractor1,Reviewer1,verified
+putusan_034,pengadilan,Pengadilan Negeri Palangkaraya,putusan_034.pdf,1,Extractor1,Reviewer1,verified
+putusan_034,tanggalPutusan,2026-05-12,putusan_034.pdf,30,Extractor1,Reviewer1,verified
+putusan_034,jenisNarkotika,Sabu (Metamfetamina),putusan_034.pdf,6,Extractor1,Reviewer1,verified
+putusan_034,beratBarangBuktiGram,0.88,putusan_034.pdf,6,Extractor1,Reviewer1,verified
+putusan_034,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. Lampiran II UU RI No. 1 Tahun 2026,putusan_034.pdf,29,Extractor1,Reviewer1,verified
+putusan_034,tuntutanBulan,96,putusan_034.pdf,2,Extractor1,Reviewer1,verified
+putusan_034,vonisBulan,84,putusan_034.pdf,29,Extractor1,Reviewer1,verified
+putusan_034,dendaRupiah,1000000000,putusan_034.pdf,29,Extractor1,Reviewer1,verified
+putusan_035,nomorPerkara,39/Pid.Sus/2026/PN Plk,putusan_035.pdf,1,Extractor1,Reviewer1,verified
+putusan_035,pengadilan,Pengadilan Negeri Palangkaraya,putusan_035.pdf,1,Extractor1,Reviewer1,verified
+putusan_035,tanggalPutusan,2026-06-03,putusan_035.pdf,24,Extractor1,Reviewer1,verified
+putusan_035,jenisNarkotika,Sabu (Metamfetamina),putusan_035.pdf,5,Extractor1,Reviewer1,verified
+putusan_035,beratBarangBuktiGram,49.34,putusan_035.pdf,3,Extractor1,Reviewer1,verified
+putusan_035,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_035.pdf,23,Extractor1,Reviewer1,verified
+putusan_035,tuntutanBulan,156,putusan_035.pdf,2,Extractor1,Reviewer1,verified
+putusan_035,vonisBulan,108,putusan_035.pdf,23,Extractor1,Reviewer1,verified
+putusan_035,dendaRupiah,1000000000,putusan_035.pdf,23,Extractor1,Reviewer1,verified
+putusan_036,nomorPerkara,40/Pid.Sus/2026/PN Plk,putusan_036.pdf,1,Extractor1,Reviewer1,verified
+putusan_036,pengadilan,Pengadilan Negeri Palangkaraya,putusan_036.pdf,1,Extractor1,Reviewer1,verified
+putusan_036,tanggalPutusan,2026-06-10,putusan_036.pdf,24,Extractor1,Reviewer1,verified
+putusan_036,jenisNarkotika,Sabu (Metamfetamina),putusan_036.pdf,5,Extractor1,Reviewer1,verified
+putusan_036,beratBarangBuktiGram,1.3,putusan_036.pdf,5,Extractor1,Reviewer1,verified
+putusan_036,pasalTerbukti,Pasal 609 ayat (1) Huruf a KUHP jo. Pasal VII angka 50 UU No. 1 Tahun 2026,putusan_036.pdf,23,Extractor1,Reviewer1,verified
+putusan_036,tuntutanBulan,36,putusan_036.pdf,2,Extractor1,Reviewer1,verified
+putusan_036,vonisBulan,24,putusan_036.pdf,23,Extractor1,Reviewer1,verified
+putusan_036,dendaRupiah,2000000000,putusan_036.pdf,23,Extractor1,Reviewer1,verified
+putusan_037,nomorPerkara,56/Pid.Sus/2026/PN Plk,putusan_037.pdf,1,Extractor1,Reviewer1,verified
+putusan_037,pengadilan,Pengadilan Negeri Palangkaraya,putusan_037.pdf,1,Extractor1,Reviewer1,verified
+putusan_037,tanggalPutusan,2026-05-12,putusan_037.pdf,37,Extractor1,Reviewer1,verified
+putusan_037,jenisNarkotika,Sabu (Metamfetamina) dan Ekstasi (MDMA),putusan_037.pdf,7,Extractor1,Reviewer1,verified
+putusan_037,beratBarangBuktiGram,549.26,putusan_037.pdf,4,Extractor1,Reviewer1,verified
+putusan_037,pasalTerbukti,Pasal 114 Ayat (2) jo. Pasal 132 Ayat (1) UU RI No. 35 Tahun 2009 jo. Lampiran II UU RI No. 1 Tahun 2026,putusan_037.pdf,35,Extractor1,Reviewer1,verified
+putusan_037,tuntutanBulan,192,putusan_037.pdf,3,Extractor1,Reviewer1,verified
+putusan_037,vonisBulan,120,putusan_037.pdf,35,Extractor1,Reviewer1,verified
+putusan_037,dendaRupiah,1000000000,putusan_037.pdf,35,Extractor1,Reviewer1,verified
+putusan_038,nomorPerkara,57/Pid.Sus/2026/PN Plk,putusan_038.pdf,1,Extractor,Reviewer,verified
+putusan_038,pengadilan,Pengadilan Negeri Palangkaraya,putusan_038.pdf,1,Extractor,Reviewer,verified
+putusan_038,tanggalPutusan,2026-05-19,putusan_038.pdf,29,Extractor,Reviewer,verified
+putusan_038,jenisNarkotika,Sabu (Metamfetamin),putusan_038.pdf,6,Extractor,Reviewer,verified
+putusan_038,beratBarangBuktiGram,99.46,putusan_038.pdf,2,Extractor,Reviewer,verified
+putusan_038,pasalTerbukti,Pasal 114 Ayat (2) UU No. 35 Tahun 2009 jo. Lampiran II UU No. 1 Tahun 2026,putusan_038.pdf,24,Extractor,Reviewer,verified
+putusan_038,tuntutanBulan,144,putusan_038.pdf,2,Extractor,Reviewer,verified
+putusan_038,vonisBulan,120,putusan_038.pdf,28,Extractor,Reviewer,verified
+putusan_038,dendaRupiah,2000000000,putusan_038.pdf,28,Extractor,Reviewer,verified
+putusan_039,nomorPerkara,60/Pid.Sus/2026/PN Plk,putusan_039.pdf,1,Extractor,Reviewer,verified
+putusan_039,pengadilan,Pengadilan Negeri Palangkaraya,putusan_039.pdf,1,Extractor,Reviewer,verified
+putusan_039,tanggalPutusan,2026-06-09,putusan_039.pdf,26,Extractor,Reviewer,verified
+putusan_039,jenisNarkotika,Sabu (Metamfetamin),putusan_039.pdf,6,Extractor,Reviewer,verified
+putusan_039,beratBarangBuktiGram,2.55,putusan_039.pdf,6,Extractor,Reviewer,verified
+putusan_039,pasalTerbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026 jo. Pasal 132 ayat (1) UU No. 35 Tahun 2009,putusan_039.pdf,22,Extractor,Reviewer,verified
+putusan_039,tuntutanBulan,96 (Terdakwa I); 84 (Terdakwa II),putusan_039.pdf,3,Extractor,Reviewer,verified
+putusan_039,vonisBulan,84 (Terdakwa I); 60 (Terdakwa II),putusan_039.pdf,25,Extractor,Reviewer,verified
+putusan_039,dendaRupiah,1000000000,putusan_039.pdf,26,Extractor,Reviewer,verified
+putusan_040,nomorPerkara,62/Pid.Sus/2026/PN Plk,putusan_040.pdf,1,Extractor,Reviewer,verified
+putusan_040,pengadilan,Pengadilan Negeri Palangkaraya,putusan_040.pdf,1,Extractor,Reviewer,verified
+putusan_040,tanggalPutusan,2026-06-09,putusan_040.pdf,24,Extractor,Reviewer,verified
+putusan_040,jenisNarkotika,Sabu (Metamfetamin),putusan_040.pdf,6,Extractor,Reviewer,verified
+putusan_040,beratBarangBuktiGram,15.81,putusan_040.pdf,3,Extractor,Reviewer,verified
+putusan_040,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_040.pdf,20,Extractor,Reviewer,verified
+putusan_040,tuntutanBulan,120,putusan_040.pdf,3,Extractor,Reviewer,verified
+putusan_040,vonisBulan,84,putusan_040.pdf,23,Extractor,Reviewer,verified
+putusan_040,dendaRupiah,1000000000,putusan_040.pdf,23,Extractor,Reviewer,verified
+putusan_041,nomorPerkara,69/Pid.Sus/2026/PN Plk,putusan_041.pdf,1,Extractor,Reviewer,verified
+putusan_041,pengadilan,Pengadilan Negeri Palangkaraya,putusan_041.pdf,1,Extractor,Reviewer,verified
+putusan_041,tanggalPutusan,2026-06-23,putusan_041.pdf,31,Extractor,Reviewer,verified
+putusan_041,jenisNarkotika,Sabu (Metamfetamin),putusan_041.pdf,6,Extractor,Reviewer,verified
+putusan_041,beratBarangBuktiGram,700.09,putusan_041.pdf,3,Extractor,Reviewer,verified
+putusan_041,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU RI No. 1 Tahun 2026,putusan_041.pdf,27,Extractor,Reviewer,verified
+putusan_041,tuntutanBulan,192,putusan_041.pdf,2,Extractor,Reviewer,verified
+putusan_041,vonisBulan,144,putusan_041.pdf,30,Extractor,Reviewer,verified
+putusan_041,dendaRupiah,1000000000,putusan_041.pdf,30,Extractor,Reviewer,verified
+putusan_042,nomorPerkara,76/Pid.Sus/2026/PN Plk,putusan_042.pdf,1,Extractor,Reviewer,verified
+putusan_042,pengadilan,Pengadilan Negeri Palangkaraya,putusan_042.pdf,1,Extractor,Reviewer,verified
+putusan_042,tanggalPutusan,2026-06-09,putusan_042.pdf,24,Extractor,Reviewer,verified
+putusan_042,jenisNarkotika,Sabu (Metamfetamin),putusan_042.pdf,5,Extractor,Reviewer,verified
+putusan_042,beratBarangBuktiGram,1.01,putusan_042.pdf,2,Extractor,Reviewer,verified
+putusan_042,pasalTerbukti,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_042.pdf,21,Extractor,Reviewer,verified
+putusan_042,tuntutanBulan,60,putusan_042.pdf,2,Extractor,Reviewer,verified
+putusan_042,vonisBulan,60,putusan_042.pdf,23,Extractor,Reviewer,verified
+putusan_042,dendaRupiah,1000000000,putusan_042.pdf,23,Extractor,Reviewer,verified
+putusan_043,nomorPerkara,326/Pid.Sus/2025/PN Plk,putusan_043.pdf,1,Extractor,Reviewer,verified
+putusan_043,pengadilan,Pengadilan Negeri Palangkaraya,putusan_043.pdf,1,Extractor,Reviewer,verified
+putusan_043,tanggalPutusan,2026-03-05,putusan_043.pdf,27,Extractor,Reviewer,verified
+putusan_043,jenisNarkotika,Sabu (Metamfetamin),putusan_043.pdf,6,Extractor,Reviewer,verified
+putusan_043,beratBarangBuktiGram,99.34,putusan_043.pdf,2,Extractor,Reviewer,verified
+putusan_043,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_043.pdf,17,Extractor,Reviewer,verified
+putusan_043,tuntutanBulan,180,putusan_043.pdf,2,Extractor,Reviewer,verified
+putusan_043,vonisBulan,132,putusan_043.pdf,26,Extractor,Reviewer,verified
+putusan_043,dendaRupiah,1000000000,putusan_043.pdf,26,Extractor,Reviewer,verified
+putusan_044,nomorPerkara,338/Pid.Sus/2025/PN Plk,putusan_044.pdf,1,Extractor,Reviewer,verified
+putusan_044,pengadilan,Pengadilan Negeri Palangkaraya,putusan_044.pdf,1,Extractor,Reviewer,verified
+putusan_044,tanggalPutusan,2026-02-24,putusan_044.pdf,23,Extractor,Reviewer,verified
+putusan_044,jenisNarkotika,Sabu (Metamfetamin),putusan_044.pdf,5,Extractor,Reviewer,verified
+putusan_044,beratBarangBuktiGram,118.01,putusan_044.pdf,3,Extractor,Reviewer,verified
+putusan_044,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009,putusan_044.pdf,18,Extractor,Reviewer,verified
+putusan_044,tuntutanBulan,156,putusan_044.pdf,2,Extractor,Reviewer,verified
+putusan_044,vonisBulan,108,putusan_044.pdf,21,Extractor,Reviewer,verified
+putusan_044,dendaRupiah,2000000000,putusan_044.pdf,21,Extractor,Reviewer,verified
+putusan_045,nomorPerkara,341/Pid.Sus/2025/PN Plk,putusan_045.pdf,1,Extractor,Reviewer,verified
+putusan_045,pengadilan,Pengadilan Negeri Palangkaraya,putusan_045.pdf,1,Extractor,Reviewer,verified
+putusan_045,tanggalPutusan,2026-02-24,putusan_045.pdf,39,Extractor,Reviewer,verified
+putusan_045,jenisNarkotika,Sabu (Metamfetamin),putusan_045.pdf,8,Extractor,Reviewer,verified
+putusan_045,beratBarangBuktiGram,99.36,putusan_045.pdf,5,Extractor,Reviewer,verified
+putusan_045,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU RI No. 35 Tahun 2009,putusan_045.pdf,34,Extractor,Reviewer,verified
+putusan_045,tuntutanBulan,144,putusan_045.pdf,4,Extractor,Reviewer,verified
+putusan_045,vonisBulan,96,putusan_045.pdf,37,Extractor,Reviewer,verified
+putusan_045,dendaRupiah,1000000000,putusan_045.pdf,37,Extractor,Reviewer,verified
+putusan_046,nomorPerkara,343/Pid.Sus/2025/PN Plk,putusan_046.pdf,1,Extractor,Reviewer,verified
+putusan_046,pengadilan,Pengadilan Negeri Palangkaraya,putusan_046.pdf,1,Extractor,Reviewer,verified
+putusan_046,tanggalPutusan,2026-03-11,putusan_046.pdf,26,Extractor,Reviewer,verified
+putusan_046,jenisNarkotika,Sabu (Metamfetamin),putusan_046.pdf,6,Extractor,Reviewer,verified
+putusan_046,beratBarangBuktiGram,9.69,putusan_046.pdf,2,Extractor,Reviewer,verified
+putusan_046,pasalTerbukti,Pasal 114 ayat (2) UU RI No. 35 Tahun 2009 jo. Pasal 84 ayat (2) KUHAP,putusan_046.pdf,23,Extractor,Reviewer,verified
+putusan_046,tuntutanBulan,120,putusan_046.pdf,2,Extractor,Reviewer,verified
+putusan_046,vonisBulan,84,putusan_046.pdf,25,Extractor,Reviewer,verified
+putusan_046,dendaRupiah,1000000000,putusan_046.pdf,25,Extractor,Reviewer,verified
+putusan_047,nomorPerkara,348/Pid.Sus/2025/PN Plk,putusan_047.pdf,1,Extractor,Reviewer,verified
+putusan_047,pengadilan,Pengadilan Negeri Palangkaraya,putusan_047.pdf,1,Extractor,Reviewer,verified
+putusan_047,tanggalPutusan,2026-05-04,putusan_047.pdf,44,Extractor,Reviewer,verified
+putusan_047,jenisNarkotika,Sabu (Metamfetamina),putusan_047.pdf,10,Extractor,Reviewer,verified
+putusan_047,beratBarangBuktiGram,28.03,putusan_047.pdf,3,Extractor,Reviewer,verified
+putusan_047,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_047.pdf,37,Extractor,Reviewer,verified
+putusan_047,tuntutanBulan,108,putusan_047.pdf,2,Extractor,Reviewer,verified
+putusan_047,vonisBulan,72,putusan_047.pdf,43,Extractor,Reviewer,verified
+putusan_047,dendaRupiah,1000000000,putusan_047.pdf,43,Extractor,Reviewer,verified
+putusan_048,nomorPerkara,349/Pid.Sus/2025/PN Plk,putusan_048.pdf,1,Extractor,Reviewer,verified
+putusan_048,pengadilan,Pengadilan Negeri Palangkaraya,putusan_048.pdf,1,Extractor,Reviewer,verified
+putusan_048,tanggalPutusan,2026-04-16,putusan_048.pdf,28,Extractor,Reviewer,verified
+putusan_048,jenisNarkotika,Sabu (Metamfetamina),putusan_048.pdf,6,Extractor,Reviewer,verified
+putusan_048,beratBarangBuktiGram,1014.81,putusan_048.pdf,2,Extractor,Reviewer,verified
+putusan_048,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_048.pdf,23,Extractor,Reviewer,verified
+putusan_048,tuntutanBulan,Seumur Hidup (-1),putusan_048.pdf,2,Extractor,Reviewer,verified
+putusan_048,vonisBulan,216,putusan_048.pdf,27,Extractor,Reviewer,verified
+putusan_048,dendaRupiah,1000000000,putusan_048.pdf,27,Extractor,Reviewer,verified
+putusan_049,nomorPerkara,352/Pid.Sus/2025/PN Plk,putusan_049.pdf,1,Extractor,Reviewer,verified
+putusan_049,pengadilan,Pengadilan Negeri Palangkaraya,putusan_049.pdf,1,Extractor,Reviewer,verified
+putusan_049,tanggalPutusan,2026-05-06,putusan_049.pdf,43,Extractor,Reviewer,verified
+putusan_049,jenisNarkotika,Sabu (Metamfetamina),putusan_049.pdf,7,Extractor,Reviewer,verified
+putusan_049,beratBarangBuktiGram,1992.02,putusan_049.pdf,3,Extractor,Reviewer,verified
+putusan_049,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2026,putusan_049.pdf,33,Extractor,Reviewer,verified
+putusan_049,tuntutanBulan,Seumur Hidup (-1),putusan_049.pdf,3,Extractor,Reviewer,verified
+putusan_049,vonisBulan,240,putusan_049.pdf,41,Extractor,Reviewer,verified
+putusan_049,dendaRupiah,2000000000,putusan_049.pdf,41,Extractor,Reviewer,verified
+putusan_050,nomorPerkara,353/Pid.Sus/2025/PN Plk,putusan_050.pdf,1,Extractor,Reviewer,verified
+putusan_050,pengadilan,Pengadilan Negeri Palangkaraya,putusan_050.pdf,1,Extractor,Reviewer,verified
+putusan_050,tanggalPutusan,2026-05-07,putusan_050.pdf,54,Extractor,Reviewer,verified
+putusan_050,terdakwaKode,TDW-050,putusan_050.pdf,1,Extractor,Reviewer,verified
+putusan_050,jenisNarkotika,Sabu (Metamfetamina),putusan_050.pdf,7,Extractor,Reviewer,verified
+putusan_050,beratBarangBuktiGram,103.41,putusan_050.pdf,3,Extractor,Reviewer,verified
+putusan_050,pasalDakwaan,Alternatif Kesatu: Pasal 114 ayat (2) UU No. 35 Tahun 2009; Atau Kedua: Pasal 112 ayat (2) UU No. 35 Tahun 2009,putusan_050.pdf,8-10,Extractor,Reviewer,verified
+putusan_050,pasalTerbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 jo. UU No. 1 Tahun 2023 jo. UU No. 1 Tahun 2026,putusan_050.pdf,49,Extractor,Reviewer,verified
+putusan_050,tuntutanBulan,156,putusan_050.pdf,3,Extractor,Reviewer,verified
+putusan_050,vonisBulan,60,putusan_050.pdf,53,Extractor,Reviewer,verified
+putusan_050,dendaRupiah,1000000000,putusan_050.pdf,53,Extractor,Reviewer,verified
