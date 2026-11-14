@@ -112,4 +112,29 @@ public class CustomArrayList<T> implements StrukturData<T> {
         }
         return result;
     }
+    // Menghitung rata-rata vonis hukuman (dalam bulan)
+    public double getRataRataVonis() {
+        if (size == 0) return 0;
+        double total = 0;
+        for (int i = 0; i < size; i++) {
+            PutusanNarkotika p = (PutusanNarkotika) elements[i];
+            total += p.getVonisBulan();
+        }
+        return total / size;
+    }
+
+    // Mengurutkan data berdasarkan vonis bulan secara ascending (Bubble Sort)
+    public void sortByVonisAscending() {
+        for (int i = 0; i < size - 1; i++) {
+            for (int j = 0; j < size - i - 1; j++) {
+                PutusanNarkotika p1 = (PutusanNarkotika) elements[j];
+                PutusanNarkotika p2 = (PutusanNarkotika) elements[j + 1];
+                if (p1.getVonisBulan() > p2.getVonisBulan()) {
+                    Object temp = elements[j];
+                    elements[j] = elements[j + 1];
+                    elements[j + 1] = temp;
+                }
+            }
+        }
+    }
 }
