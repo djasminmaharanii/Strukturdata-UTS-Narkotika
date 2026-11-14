@@ -77,4 +77,39 @@ public class CustomArrayList<T> implements StrukturData<T> {
     public boolean validateInvariant() {
         return size >= 0 && size <= elements.length;
     }
+
+    // Mencari berdasarkan Case ID atau Nomor Perkara dan mengembalikan jumlah langkah iterasi
+    public int searchWithSteps(String keyword) {
+        int steps = 0;
+        boolean found = false;
+        for (int i = 0; i < size; i++) {
+            steps++;
+            PutusanNarkotika p = (PutusanNarkotika) elements[i];
+            if (p.getCaseId().equalsIgnoreCase(keyword) || p.getNomorPerkara().equalsIgnoreCase(keyword)) {
+                System.out.println("Data ditemukan pada indeks ke-" + i + ":");
+                System.out.println("  Case ID       : " + p.getCaseId());
+                System.out.println("  Nomor Perkara : " + p.getNomorPerkara());
+                System.out.println("  Jenis         : " + p.getJenisNarkotika());
+                System.out.println("  Vonis (bulan) : " + p.getVonisBulan());
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            System.out.println("Data dengan keyword '" + keyword + "' tidak ditemukan.");
+        }
+        return steps;
+    }
+
+    // Filter berdasarkan jenis narkotika
+    public CustomArrayList<PutusanNarkotika> filterByJenis(String jenis) {
+        CustomArrayList<PutusanNarkotika> result = new CustomArrayList<>();
+        for (int i = 0; i < size; i++) {
+            PutusanNarkotika p = (PutusanNarkotika) elements[i];
+            if (p.getJenisNarkotika().toLowerCase().contains(jenis.toLowerCase())) {
+                result.add(p);
+            }
+        }
+        return result;
+    }
 }
