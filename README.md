@@ -14,7 +14,7 @@ Proyek Ujian Tengah Semester (UTS) Mata Kuliah **Struktur Data** untuk mengolah 
 
 ---
 
-## 🛠️ Pilihan Struktur Data Utama
+## Pilihan Struktur Data Utama
 
 * **Struktur Utama:** `CustomArrayList<T>` (Array Dinamis Generik tanpa menggunakan koleksi bawaan `java.util`).
 * **Representasi:** Arsip utama berbasis indeks untuk menampung seluruh 50 objek `PutusanNarkotika`.
@@ -23,7 +23,7 @@ Proyek Ujian Tengah Semester (UTS) Mata Kuliah **Struktur Data** untuk mengolah 
 
 ---
 
-## 🚀 Fitur Utama Program
+## Fitur Utama Program
 
 1. **Impor Dataset CSV:** Membaca 50 record dari `data/putusan 50.csv` secara otomatis ke dalam `CustomArrayList`.
 2. **Tampil Data:** Menampilkan ringkasan seluruh record putusan secara terstruktur.
@@ -34,7 +34,7 @@ Proyek Ujian Tengah Semester (UTS) Mata Kuliah **Struktur Data** untuk mengolah 
 
 ---
 
-## 💻 Cara Menjalankan & Pengujian Program
+## Cara Menjalankan & Pengujian Program
 
 ### Prasyarat
 * Java Development Kit (JDK) 11 atau yang lebih baru.
