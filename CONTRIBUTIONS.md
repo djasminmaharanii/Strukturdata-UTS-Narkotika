@@ -1,53 +1,88 @@
-# Dokumentasi Kontribusi Anggota Kelompok (CONTRIBUTIONS.md)
+# Pengolahan Data Putusan Narkotika (`CustomArrayList`)
 
-**Mata Kuliah**: Struktur Data  
-**Proyek**: Penanganan Data Putusan Narkotika  
-**Kelompok**: 13
+Proyek UTS Mata Kuliah **Struktur Data** untuk mengolah 50 data putusan pengadilan narkotika menggunakan struktur data array dinamis kustom.
 
 ---
 
-## Ringkasan Pembagian Tugas & Kolaborasi
+##  Anggota Kelompok 13
 
-| Anggota Kelompok | NIM | Peran Utama | Fokus Kontribusi |
-| :--- | :--- | :--- | :--- |
-| **R A. Djasmin Irdina Dzikra Maharani** (`@djasminmaharanii`) | 202510370110265 | Lead Developer & Tester | Desain `CustomArrayList`, Implementasi Unit Testing, Refactoring Folder, ADR & Release Tag |
-| **Fevian Setiawan Putri** (`@feviansetiawanputri-eng`) | 202510370110254 | Data & Architecture Specialist | Ekstraksi Dataset, Implementasi `CSVLoader`, Fitur Aggregation & Sorting, Skenario Demo & Trace |
+- **R A. Djasmin Irdina Dzikra Maharani** (NIM: 202510370110265) – [@djasminmaharanii](https://github.com/djasminmaharanii)
+- **Fevian Setiawan Putri** (NIM: 202510370110254) – [@feviansetiawanputri-eng](https://github.com/feviansetiawanputri-eng)
 
----
-
-## Detail Kontribusi Individual
-
-### 1. R A. Djasmin Irdina Dzikra Maharani (`@djasminmaharanii`)
-- **Ekstraksi Data & Provenance**: Mengkstrak 25 record data putusan narkotika dan verifikasi pada file `docs/data-provenance.csv`.
-- **Implementasi Kode**:
-  - Membangun interface `StrukturData.java` dan kelas `CustomArrayList.java` (Commit: `832fafd`).
-  - Membangun model kelas `PutusanNarkotika.java` (Commit: `32957f6`).
-  - Membangun pengujian integrasi `CSVLoader` di kelas `Main.java` (Commit: `884d4c9`).
-  - Mengimplementasikan fitur pencarian (*search*) beserta pelaporan jumlah langkah eksekusi & filter (Commit: `5ad413e`).
-  - Melakukan refactoring struktur proyek ke `src/main/java` dan unit test `CustomArrayListTest.java` di `src/test/java` (Commit: `2c61500`, `87f52bc`).
-- **Dokumentasi & GitHub Workflow**:
-  - Mengulas (*review*) dan menyetujui Merge Pull Request #3, #7, #9, #15.
-  - Menerbitkan Release Tag resmi `uts-v1.0`.
-
-### 2. Fevian Setiawan Putri (`@feviansetiawanputri-eng`)
-- **Ekstraksi Data & Provenance**: Mengkstrak 25 record data putusan narkotika serta melengkapi metadata sumber PDF `docs/data-provenance.csv`.
-- **Implementasi Kode**:
-  - Menambahkan dataset `putusan 50.csv` dan `data-provenance.csv` (Commit: `aeaed8f`).
-  - Membangun pembaca berkas CSV `CSVLoader.java` (Commit: `0c5a9ae`).
-  - Mengimplementasikan fitur agregasi data dan pengurutan (*sorting*) berdasarkan vonis (Commit: `7cb8c2e`).
-- **Dokumentasi & GitHub Workflow**:
-  - Menyusun dokumen ADR (`0001-pemilihan-struktur-data.md` dan `0002-strategi-pencarian-dan-pengurutan.md`) (Commit: `ca81f31`).
-  - Menyusun dokumen `docs/demo/demo-skenario.md` dan `docs/trace/eksekusi-trace.md` (Commit: `9273851`).
-  - Mengulas (*review*) dan menyetujui Merge Pull Request #5, #10, #13.
+**Dosen Pengampu:** Galih W. Wicaksono  
+**Kelas:** B 
 
 ---
 
-## 🔗 Bukti Lacak Git (Issues & Pull Requests Riil)
+##  Pilihan Struktur Data Utama
 
-- **PR #3**: Merge feature/custom-structure (Reviewed by `@feviansetiawanputri-eng`) [Commit `16667f3`]
-- **PR #5**: Merge feature/dataset-loader (Reviewed by `@djasminmaharanii`) [Commit `a5b52da`]
-- **PR #7**: Merge feature/model-putusan (Reviewed by `@feviansetiawanputri-eng`) [Commit `47022a0`]
-- **PR #9**: Merge feature/csv-loader (Reviewed by `@djasminmaharanii`) [Commit `68cb702`]
-- **PR #10**: Merge feature/main-loader-test (Reviewed by `@feviansetiawanputri-eng`) [Commit `c83c961`]
-- **PR #13**: Merge feature/search-filter (Reviewed by `@feviansetiawanputri-eng`) [Commit `24fb881`]
-- **PR #15**: Merge feature/aggregate-sort (Reviewed by `@djasminmaharanii`) [Commit `769c4b0`]
+- **Struktur Utama:** `CustomArrayList<T>` (Array Dinamis Generik tanpa koleksi bawaan `java.util`).
+- **Representasi:** Penyimpanan berbasis indeks untuk menampung 50 objek `PutusanNarkotika`.
+- **Operasi Minimum:** `resize`, `add`, `insert`, `get`, `set`, `remove`, `search`, `size`, `isEmpty`, `clear`.
+- **Invariant Utama:** Kapasitas internal selalu $\ge$ jumlah elemen aktif (`size`), dan data tersusun kontigu tanpa elemen `null` di tengah.
+
+---
+
+##  Struktur Repositori
+
+```text
+Strukturdata-UTS-Narkotika/
+├── data/
+│   └── putusan 50.csv
+├── docs/
+│   ├── adr/
+│   │   ├── 0001-pemilihan-struktur-data.md
+│   │   └── 0002-strategi-pencarian-dan-pengurutan.md
+│   ├── demo/
+│   │   └── demo-skenario.md
+│   ├── trace/
+│   │   └── eksekusi-trace.md
+│   └── data-provenance.csv
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       ├── CSVLoader.java
+│   │       ├── CustomArrayList.java
+│   │       ├── Main.java
+│   │       ├── PutusanNarkotika.java
+│   │       └── StrukturData.java
+│   └── test/
+│       └── java/
+│           └── CustomArrayListTest.java
+├── .gitignore
+├── AI_USAGE.md
+├── CONTRIBUTIONS.md
+└── README.md
+```
+
+---
+
+##  Fitur Utama Program
+
+1. **Impor Dataset CSV:** Membaca 50 record dari `data/putusan 50.csv` secara otomatis ke `CustomArrayList`.
+2. **Tampil Data:** Menampilkan ringkasan seluruh record putusan secara terstruktur.
+3. **Pencarian Data (`searchWithSteps`):** Mencari perkara berdasarkan kata kunci dan menghitung jumlah langkah komparasi (Linear Search).
+4. **Filter Data (`filterByJenis`):** Memfilter putusan berdasarkan jenis narkotika (misal: "Shabu").
+5. **Agregasi Data (`getRataRataVonis`):** Menhitung rata-rata masa vonis penjara (bulan) dari dataset.
+6. **Pengurutan Data (`sortByVonisAscending`):** Mengurutkan putusan berdasarkan masa vonis secara *ascending* (Bubble Sort).
+
+---
+
+## Cara Menjalankan & Pengujian Program
+
+### Prasyarat
+- Java Development Kit (JDK) 11 atau yang lebih baru.
+- Terminal Git Bash / IDE (IntelliJ IDEA).
+
+### Jalankan Program Utama & Unit Test
+Buka terminal di direktori utama proyek, lalu jalankan perintah berikut:
+
+```bash
+# 1. Kompilasi & Jalankan Program Utama
+javac -d out src/main/java/*.java
+java -cp out Main
+
+# 2. Kompilasi & Jalankan Unit Test
+javac -d out -cp src/main/java src/test/java/CustomArrayListTest.java
+java -ea -cp out:src/main/java CustomArrayListTest
+```

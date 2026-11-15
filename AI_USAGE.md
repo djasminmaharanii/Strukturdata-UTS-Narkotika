@@ -6,13 +6,13 @@
 
 ---
 
-## 📋 Kebijakan & Komitmen
+## Kebijakan & Komitmen
 
 Dokumen ini mencatat seluruh penggunaan alat bantu AI generatif selama pengerjaan proyek UTS Struktur Data. Kami memastikan bahwa AI hanya digunakan sebagai alat bantu pendiskusian konsep, perbaikan sintaks/format dokumentasi, dan validasi skenario pengujian. Seluruh logika utama struktur data `CustomArrayList`, pembacaan data, serta pengujian telah diverifikasi dan dipahami sepenuhnya oleh anggota kelompok.
 
 ---
 
-## 📜 Log Catatan Penggunaan AI
+##  Log Catatan Penggunaan AI
 
 ### 1. R A. Djasmin Irdina Dzikra Maharani (`@djasminmaharanii`)
 
@@ -45,7 +45,7 @@ Dokumen ini mencatat seluruh penggunaan alat bantu AI generatif selama pengerjaa
 
 ---
 
-## 🔍 Pernyataan Keaslian
+##  Pernyataan Keaslian
 
 Kami menyatakan bahwa:
 1. Tidak ada kode atau data hukum yang dihasilkan secara otomatis lalu diakui tanpa proses pengujian dan pemahaman.
