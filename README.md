@@ -10,7 +10,7 @@ Proyek UTS Mata Kuliah **Struktur Data** untuk mengolah 50 data putusan pengadil
 - **Fevian Setiawan Putri** (NIM: 202510370110254) – [@feviansetiawanputri-eng](https://github.com/feviansetiawanputri-eng)
 
 **Dosen Pengampu:** Galih W. Wicaksono  
-**Kelas:** B / D
+**Kelas:** B 
 
 ---
 
